@@ -1,5 +1,6 @@
 ![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/blackwater%20logo%202.png?raw=true) 
 ![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/bw%20logo.png?raw=true)
+(note: 2 logos but if application is accepted would be happy with either one)
 # Blackwater-Tobacco-Road.
 1. Business Concept
 Business Name: Blackwater Tobacco Road
