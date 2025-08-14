@@ -28,9 +28,8 @@ Owner/Manager William Mac Tavish
 Farmhands (can hire or recruit other players)
 Sales Representatives ( traveling or shopkeepers)
 Pricing (RP-Driven)
-Cigarettes: $1 per pack
-Cigars: $2 each
-Chewing Tobacco: $1.5 per pouch
+Cigarettes: $2 
+Cigars: $8 each
 
 5. Marketing & Engagement
 Sponsorships: Host poker nights, barn dances, or shooting contests, offering tobacco samples.
