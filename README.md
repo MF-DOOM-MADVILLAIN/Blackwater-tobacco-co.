@@ -10,7 +10,7 @@ Type: Production & Distribution of Hand-Rolled Cigarettes, Cigars, and all tobac
 Owner/Proprietor: William Mac Tavish
 
 2. Backstory & Motivation
-The business is founded by 37 year old William Mac Tavish. Being raised in the hard industrial town of Glasgow he was good at settling deals and brushing shoulders with both sides of the class system. As he worked on the shipyards wher he dealt with blue clolar workes But also with the british accent he could be seen at at gambling tables brushing shoulders with the big wigs where his tongue got him out of trouble more than once.Driven by building a name for himself and to invest in the commonwealth, to supply anyone and everyone with tobacco and high quality service.
+The business is founded by 37 year old William Mac Tavish. Being raised in the hard industrial town of Glasgow he was good at settling deals and brushing shoulders with both sides of the class system. As he worked on the shipyards where he dealt with blue clolar workes But also with the british accent he could be seen at at gambling tables brushing shoulders with the big wigs where his tongue got him out of trouble more than once.Driven by building a name for himself and to invest in the commonwealth, to supply anyone and everyone with tobacco and high quality service.
 
 3. Products & Services
 Hand-Rolled Cigarettes: Affordable, quick smoke for travelers and workers.
