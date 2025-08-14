@@ -28,10 +28,10 @@ Cigarettes: $1 per pack
 Cigars: $2 each
 Chewing Tobacco: $1.5 per pouch
 
-5. Marketing & RP Engagement
+5. Marketing & Engagement
 Sponsorships: Host poker nights, barn dances, or shooting contests, offering tobacco samples.
-NPC & Player Ads: Post flyers and run newspaper ads (if supported).
-RP Events: Hold tobacco rolling workshops or tasting sessions.
+Player Ads: Post flyers and run newspaper ads (if supported).
+Events: Hold tobacco rolling workshops or tasting sessions.
 Partnerships: Work with saloon owners or gang leaders for exclusive deals.
 
 6. Risk & Law
