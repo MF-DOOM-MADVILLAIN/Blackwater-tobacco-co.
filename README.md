@@ -21,9 +21,7 @@ Custom Orders: Special blends for repeat customers and VIPs.
 4. Operations
 Supply Chain
 Farming: Grow tobacco on rented or owned land.
-
 Production: Process and roll tobacco in a local warehouse or shop.
-
 Distribution: Sell to general stores, saloons, and via traveling salesmen.
 Staffing
 Owner/Manager William Mac Tavish
