@@ -1,6 +1,6 @@
 Logo
 
- ![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/Bw%20Real%20Logo.png?raw=true)
+ ![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/bw%20logo.png?raw=true)
 
 Poster
 
