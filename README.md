@@ -31,7 +31,7 @@ For him, it’s not just a shop—it’s a place to build a name, meet people, a
 - Premium Cigars:
 - Chewing Tobacco
 - Pixie sticks
-- Custom Cigars:Honey dew Cigars (add sap),Mint Cigars
+- Custom Cigars:Honey dew Cigars (add sap),Mint Cigars, Cherry Blossom Cigars, London Fog Cigars
    
 **Taste bundle**: 5 chewing tobacco, 5 premium cigars, 5 chewing tobacco, 5 pixie sticks. 
 This bundle is meant to be for people who have never tried any of the smoking products or who can't or want to decide.  
