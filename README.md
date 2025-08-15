@@ -97,3 +97,6 @@ If sales slow, I will scale down production temporarily, focus more on bulk deli
 Blackwater Tobacco Road isn’t just a shop—it’s a place where people from all walks of life can find something they enjoy, a moment to pause, and a taste of quality they can trust. I’m here to build more than a business; I’m here to create a name that stands for fairness, skill, and a good product.
 
 With steady work, careful planning, and an eye for what the customer wants, I’m ready to make Blackwater Tobacco Road a part of this town that people remember long after their time here.
+Thank you for taking the time to read this.
+
+Sincerely, William Mac Tavish
