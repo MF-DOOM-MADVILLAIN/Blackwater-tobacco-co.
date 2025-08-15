@@ -17,6 +17,7 @@ Backstory & Motivation
 The business is founded by 37 year old William Mac Tavish. Being raised in the hard industrial town of Glasgow he was the man at settling deals and brushing shoulders with both sides of the class system. As he worked on the shipyards where he dealt with blue clolar workes But also with the british accent he could be seen at at gambling tables brushing shoulders with the big wigs where his tongue got him out of trouble more than once.Driven by building a name for himself and to invest in the commonwealth, to supply anyone and everyone with tobacco and high quality service.
 
 Products & Services
+
 Hand-Rolled Cigarettes: Affordable, quick smoke for travelers and workers.
 Premium Cigars: Luxury item for wealthy patrons, lawmen, and gamblers.
 Chewing Tobacco: Popular among ranch hands and outlaws.
@@ -40,6 +41,7 @@ Cigarettes: $2
 Cigars: $8 each
 
 Marketing & Engagement
+
 Sponsorships: Host poker nights, barn dances, or shooting contests, offering tobacco samples.
 Player Ads: Post flyers and run newspaper ads (if supported).
 Events: Hold tobacco rolling workshops or tasting sessions.
@@ -47,12 +49,14 @@ Partnerships: Work with saloon owners for exclusive deals.
 Exclusive deals 10% off for miners and stressfull jobs.
 
 Expansion & Future Plans
+
 New Products: will be added as soon as it comes to the commonwealth.
 Export: Expand sales to nearby towns.
 Franchise: Open more shops or to invest in tobacco farms, recruit franchisees.
 Contacts: Isabella at gallows creek ranch has said they would supply the shop.
 
 Profit & Sustainability
+
 Initial Investment: Land, seeds, equipment .
 Weekly Revenue Goal: $100-$500 (server economy dependent).
 Break-Even Point: After 2-3 weeks of successful sales.
