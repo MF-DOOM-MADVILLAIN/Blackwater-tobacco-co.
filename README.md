@@ -4,7 +4,7 @@ Logo
 
 Poster
 
-![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/bw%20poster.png?raw=true)
+![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/%7BF917E6C6-0CA9-40C9-B409-A3F61F6B3174%7D.png?raw=true)
 # Blackwater-Tobacco-Road.
 1. Business Concept
 Business Name: Blackwater Tobacco Road
