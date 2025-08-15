@@ -42,7 +42,7 @@ This bundle is meant to be for people who have never tried any of the smoking pr
 
 I have designed a poster that fits the style of a tobacco store in Blackwater. This is a prototype/concept of what I would put on the pinboards. 
 
-![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/%7BF917E6C6-0CA9-40C9-B409-A3F61F6B3174%7D.png?raw=true)
+![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/BLACKWATER_TOBACCO_ROAD.jpeg?raw=true)
 
 ---
 
