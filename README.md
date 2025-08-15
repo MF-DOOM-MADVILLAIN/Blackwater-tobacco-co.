@@ -2,9 +2,9 @@ Logo
 
  ![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/bw%20logo.png?raw=true)
 
-Poster
 
-![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/%7BF917E6C6-0CA9-40C9-B409-A3F61F6B3174%7D.png?raw=true)
+
+
 # Blackwater-Tobacco-Road.
 1. Business Concept
 Business Name: Blackwater Tobacco Road
@@ -20,6 +20,10 @@ Hand-Rolled Cigarettes: Affordable, quick smoke for travelers and workers.
 Premium Cigars: Luxury item for wealthy patrons, lawmen, and gamblers.
 Chewing Tobacco: Popular among ranch hands and outlaws.
 Custom Orders: Special blends for repeat customers and VIPs.Tasting bundle, 5 chewing tobacco, 5 pixie sticks, 5 cigars etc.
+
+Poster
+
+![image alt](https://github.com/MF-DOOM-MADVILLAIN/Blackwater-tobacco-co./blob/main/Images/%7BF917E6C6-0CA9-40C9-B409-A3F61F6B3174%7D.png?raw=true)
 
 4. Operations
 Supply Chain
